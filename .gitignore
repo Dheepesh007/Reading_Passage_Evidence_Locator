@@ -1,0 +1,29 @@
+# Python environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Environment Variables
+.env
+
+# FAISS Vector Index & Temporary Data
+*.faiss
+*.index
+*.pkl
+
+# Uploaded / Cached files
+data/sample_pdfs/*
+!data/sample_pdfs/.gitkeep
+assets/cache/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

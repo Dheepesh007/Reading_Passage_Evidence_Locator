@@ -1,0 +1,5 @@
+question_id,document_name,question_type,question_text,ground_truth_page,expected_answer
+Q1,sample.pdf,direct_fact,"What is the primary objective of the reading passage evidence locator?",1,"To locate precise citations and verified answers from dense multi-page PDF documents."
+Q2,sample.pdf,page_specific,"On what page is the system architecture diagram referenced?",2,"Page 2"
+Q3,sample.pdf,unanswerable,"What is the total annual revenue of the company in 2024?",N/A,"INSUFFICIENT_EVIDENCE"
+Q4,sample.pdf,paraphrased,"Why was Streamlit replaced by Gradio?",1,"Streamlit was lagging on the user's system."

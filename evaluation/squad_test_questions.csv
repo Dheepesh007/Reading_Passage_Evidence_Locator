@@ -1,0 +1,21 @@
+question_id,passage_id,question,is_answerable,expected_answer,source_article_title
+56ddde6b9a695914005b9628,squad_p01,In what country is Normandy located?,True,France,Normans
+5ad39d53604f3c001a3fe8d1,squad_p01,Who gave their name to Normandy in the 1000's and 1100's,False,,Normans
+56e16182e3433e1400422e28,squad_p02,What branch of theoretical computer science deals with broadly classifying computational problems by difficulty and class of relationship?,True,Computational complexity theory,Computational_complexity_theory
+5ad5316b5b96ef001a10ab72,squad_p02,What is computational complexity principle?,False,,Computational_complexity_theory
+5705e26d75f01819005e76d4,squad_p03,What is Southern California often abbreviated as?,True,SoCal,Southern_California
+5ad0178577cf76001a68698a,squad_p03,What counties does the more extensive eight county definition of SoCal include?,False,,Southern_California
+57092322efce8f15003a7db0,squad_p04,What company was formed by the merger of Sky Television and British Satellite Broadcasting?,True,BSkyB,Sky_(United_Kingdom)
+5a2c08aebfd06b001a5ae989,squad_p04,What company was angry about the merger of Sky Television and British Satellite Broadcasting?,False,,Sky_(United_Kingdom)
+570d2417fed7b91900d45c3d,squad_p05,What kind of economy does Victoria have?,True,diversified,Victoria_(Australia)
+5a6374de68151a001a9222e6,squad_p05,What kind of education does Victoria have?,False,,Victoria_(Australia)
+57105da9a58dae1900cd699e,squad_p06,Where was France's Huguenot population largely centered?,True,the southern and central parts of France,Huguenot
+5ad23fded7d075001a4288fc,squad_p06,When did the Huguenot movement start?,False,,Huguenot
+57112686b654c5140001fbd3,squad_p07,"Along with geothermal and nuclear, what is a notable non-combustion heat source?",True,solar,Steam_engine
+5ad3bd8f604f3c001a3fef2d,squad_p07,"Along with geothermal and nuclear, what is a notable combustion heat source?",False,,Steam_engine
+571a484210f8ca1400304fbd,squad_p08,The atomic number of the periodic table for oxygen?,True,8,Oxygen
+5ad21646d7d075001a4283c4,squad_p08,What element has an atomic symbol of O?,False,,Oxygen
+5725b33f6a3fe71400b8952d,squad_p09,When did the 1973 oil crisis begin?,True,October 1973,1973_oil_crisis
+5a38a8d2a4b263001a8c1875,squad_p09,When did OPEC begin?,False,,1973_oil_crisis
+5725b7f389a1e219009abd5d,squad_p10,What is European Union Law?,True,a body of treaties and legislation,European_Union_law
+5ad108f9645df0001a2d0a74,squad_p10,What are the three sources of American Union Law?,False,,European_Union_law

@@ -1,0 +1,18 @@
+# Core Framework & UI (Gradio 5+ compatible with Python 3.12 and modern Pydantic/WebSockets)
+gradio>=5.0.0
+
+# LLM & Generation (Official modern Google GenAI SDK - replaces deprecated google-generativeai)
+google-genai>=1.0.0
+
+# Embeddings & Vector Search (FAISS CPU with Windows Python 3.12 pre-built wheels)
+sentence-transformers>=3.0.0
+faiss-cpu>=1.9.0
+
+# Document Processing
+PyMuPDF>=1.24.0
+
+# Environment & Utilities
+python-dotenv>=1.0.0
+numpy>=1.26.0
+pandas>=2.2.0
+tqdm>=4.66.0
